@@ -28,4 +28,24 @@ List<PopularSong> jungkook = [
   year: 2018,
   color: titleColor),
 
+ 
+
+
+      
+  PopularSong(
+      id: 2,
+      songName: "still with you",
+      album: "Unofficial Song",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+
+        PopularSong(
+      id: 3,
+      songName: "Stay Alive (Prod. SUGA of BTS)",
+      album: "Original soundtrack for 7Fates",
+      genres: "K-pop",
+      year: 2022,
+      color: titleColor),
+
 ];
