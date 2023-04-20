@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-const backgroudColor = Color(0xFF817F7E);
+const jungKookBackgroudColor = Color(0xFF817F7E);
 
 const textColor = Color(0xFF1E1E1E);
 
