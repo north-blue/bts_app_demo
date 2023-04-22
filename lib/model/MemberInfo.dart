@@ -41,6 +41,21 @@ List<MemberInfo> memberInfo = [
   ),
 
 
+   MemberInfo(
+    id: 2,
+    memberOf: "BTS",
+    color: jungKookBackgroudColor,
+    about:
+        "Kim Nam-joon (Korean: 김남준; born September 12, 1994), known professionally as RM (formerly Rap Monster), is a South Korean rapper, singer-songwriter and record producer. He is the leader of South Korean boy band BTS.",
+    image: "assets\images\namjoon.jpg",
+    title: "RM",
+    subTitle: "South Korean singer",
+    hangul: "김남준",
+    romanName: "Kim Nam-joon",
+    birth: "September 12, 1994",
+  ),
+
+
 
 
 
