@@ -49,3 +49,35 @@ List<PopularSong> jungkook = [
       color: titleColor),
 
 ];
+
+
+List<PopularSong> namjoon = [
+  PopularSong(
+      id: 1,
+      songName: "Wild Flower",
+      album: "Indigo",
+      genres: "K-pop,Hip-Hop/Rap",
+      year: 2022,
+      color: titleColor),
+
+
+
+  PopularSong(
+      id: 2,
+      songName: "Winter Flower(Feat. RM)",
+      album: "Unstable MindSet",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+
+
+
+
+  PopularSong(
+      id: 3,
+      songName: "No.2(with park jiyoon)",
+      album: "Indigo",
+      genres: "K-pop,Hip-Hop/Rap",
+      year: 2022,
+      color: titleColor),
+];
