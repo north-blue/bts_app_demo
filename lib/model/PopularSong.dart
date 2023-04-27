@@ -9,29 +9,22 @@ class PopularSong {
   final Color color;
 
   PopularSong(
-      {
-       required this.songName,
+      {required this.songName,
       required this.album,
-      required this.genres, 
+      required this.genres,
       required this.id,
-      required  this.year,
-       required  this.color
-         });
+      required this.year,
+      required this.color});
 }
 
 List<PopularSong> jungkook = [
   PopularSong(
-    id: 1,
-    songName: "Euphoria",
-    album: "Love Yourself:Answer",
-    genres: "K-pop,Korean Dance" ,   
-  year: 2018,
-  color: titleColor),
-
- 
-
-
-      
+      id: 1,
+      songName: "Euphoria",
+      album: "Love Yourself:Answer",
+      genres: "K-pop,Korean Dance",
+      year: 2018,
+      color: titleColor),
   PopularSong(
       id: 2,
       songName: "still with you",
@@ -39,17 +32,14 @@ List<PopularSong> jungkook = [
       genres: "K-pop",
       year: 2020,
       color: titleColor),
-
-        PopularSong(
+  PopularSong(
       id: 3,
       songName: "Stay Alive (Prod. SUGA of BTS)",
       album: "Original soundtrack for 7Fates",
       genres: "K-pop",
       year: 2022,
       color: titleColor),
-
 ];
-
 
 List<PopularSong> namjoon = [
   PopularSong(
@@ -59,9 +49,6 @@ List<PopularSong> namjoon = [
       genres: "K-pop,Hip-Hop/Rap",
       year: 2022,
       color: titleColor),
-
-
-
   PopularSong(
       id: 2,
       songName: "Winter Flower(Feat. RM)",
@@ -69,10 +56,6 @@ List<PopularSong> namjoon = [
       genres: "K-pop",
       year: 2020,
       color: titleColor),
-
-
-
-
   PopularSong(
       id: 3,
       songName: "No.2(with park jiyoon)",
