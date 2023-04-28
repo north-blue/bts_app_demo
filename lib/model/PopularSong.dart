@@ -17,29 +17,7 @@ class PopularSong {
       required this.color});
 }
 
-List<PopularSong> jungkook = [
-  PopularSong(
-      id: 1,
-      songName: "Euphoria",
-      album: "Love Yourself:Answer",
-      genres: "K-pop,Korean Dance",
-      year: 2018,
-      color: titleColor),
-  PopularSong(
-      id: 2,
-      songName: "still with you",
-      album: "Unofficial Song",
-      genres: "K-pop",
-      year: 2020,
-      color: titleColor),
-  PopularSong(
-      id: 3,
-      songName: "Stay Alive (Prod. SUGA of BTS)",
-      album: "Original soundtrack for 7Fates",
-      genres: "K-pop",
-      year: 2022,
-      color: titleColor),
-];
+
 
 List<PopularSong> namjoon = [
   PopularSong(
@@ -65,6 +43,29 @@ List<PopularSong> namjoon = [
       color: titleColor),
 ];
 
+List<PopularSong> seokjin = [
+  PopularSong(
+      id: 1,
+      songName: "Epiphany",
+      album: "Lover Yourself: Answer",
+      genres: "K-pop,Ballad,Soft rock , korean Dance",
+      year: 2018,
+      color: titleColor),
+  PopularSong(
+      id: 2,
+      songName: "The Astronaut",
+      album: "The Astronaut ",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+  PopularSong(
+      id: 3,
+      songName: "Yours",
+      album: "Jirisan(original television soundtrack) special",
+      genres: "K-pop",
+      year: 2021,
+      color: titleColor),
+];
 
 List<PopularSong> yoongi = [
   PopularSong(
@@ -95,31 +96,29 @@ List<PopularSong> yoongi = [
 ];
 
 
-List<PopularSong> seokjin = [
+
+
+
+List<PopularSong> jungkook = [
   PopularSong(
       id: 1,
-      songName: "Epiphany",
-      album: "Lover Yourself: Answer",
-      genres: "K-pop,Ballad,Soft rock , korean Dance",
+      songName: "Euphoria",
+      album: "Love Yourself:Answer",
+      genres: "K-pop,Korean Dance",
       year: 2018,
       color: titleColor),
-
-
-
   PopularSong(
       id: 2,
-      songName: "The Astronaut",
-      album: "The Astronaut ",
+      songName: "still with you",
+      album: "Unofficial Song",
       genres: "K-pop",
       year: 2020,
       color: titleColor),
-      
   PopularSong(
       id: 3,
-      songName: "Yours",
-      album: "Jirisan(original television soundtrack) special",
+      songName: "Stay Alive (Prod. SUGA of BTS)",
+      album: "Original soundtrack for 7Fates",
       genres: "K-pop",
-      year: 2021,
+      year: 2022,
       color: titleColor),
 ];
-
