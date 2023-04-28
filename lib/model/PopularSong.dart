@@ -64,3 +64,62 @@ List<PopularSong> namjoon = [
       year: 2022,
       color: titleColor),
 ];
+
+
+List<PopularSong> yoongi = [
+  PopularSong(
+      id: 1,
+      songName: "Daechwita",
+      album: "D-2",
+      genres: "K-pop, Korean hip hop",
+      year: 2020,
+      color: titleColor),
+
+
+
+  PopularSong(
+      id: 2,
+      songName: "Trivia 轉 : Seesaw",
+      album: "Love Yourself:Answer ",
+      genres: "K-pop,Pop music,Korean Dance",
+      year: 2018,
+      color: titleColor),
+      
+  PopularSong(
+      id: 3,
+      songName: "Interlude: Shadow",
+      album: "Map of the Soul:7",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+];
+
+
+List<PopularSong> seokjin = [
+  PopularSong(
+      id: 1,
+      songName: "Epiphany",
+      album: "Lover Yourself: Answer",
+      genres: "K-pop,Ballad,Soft rock , korean Dance",
+      year: 2018,
+      color: titleColor),
+
+
+
+  PopularSong(
+      id: 2,
+      songName: "The Astronaut",
+      album: "The Astronaut ",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+      
+  PopularSong(
+      id: 3,
+      songName: "Yours",
+      album: "Jirisan(original television soundtrack) special",
+      genres: "K-pop",
+      year: 2021,
+      color: titleColor),
+];
+
