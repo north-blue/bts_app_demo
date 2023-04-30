@@ -96,6 +96,33 @@ List<PopularSong> yoongi = [
 ];
 
 
+List<PopularSong> hoseok = [
+  PopularSong(
+      id: 1,
+      songName: "Outro: Ego",
+      album: "Map of the Soul: 7",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+
+
+
+  PopularSong(
+      id: 2,
+      songName: "Trivia 轉 : Just Dance",
+      album: "Love Yourself:Answer ",
+      genres: "K-pop,Korean Dance",
+      year: 2018,
+      color: titleColor),
+      
+  PopularSong(
+      id: 3,
+      songName: "Airplane",
+      album: "Hope World",
+      genres: "K-Pop, Korean Dance",
+      year: 2018,
+      color: titleColor),
+];
 
 
 
