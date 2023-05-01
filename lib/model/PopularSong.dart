@@ -126,6 +126,37 @@ List<PopularSong> hoseok = [
 
 
 
+
+List<PopularSong> jimin = [
+  PopularSong(
+      id: 1,
+      songName: "Promise",
+      album: "약속",
+      genres: "K-pop",
+      year: 2018,
+      color: titleColor),
+
+
+
+  PopularSong(
+      id: 2,
+      songName: "Intro:Serendipity",
+      album: "Love Yourself:Her ",
+      genres: "K-pop,Korean Dance",
+      year: 2017,
+      color: titleColor),
+      
+  PopularSong(
+      id: 3,
+      songName: "With you (with Ha Sung-woon) ",
+      album: "Our Blues (Original Television Soundtrack)",
+      genres: "Korean Ballads",
+      year: 2022,
+      color: titleColor),
+];
+
+
+
 List<PopularSong> jungkook = [
   PopularSong(
       id: 1,
