@@ -157,6 +157,38 @@ List<PopularSong> jimin = [
 
 
 
+
+
+List<PopularSong> taehyung = [
+  PopularSong(
+      id: 1,
+      songName: "Stigma",
+      album: "Wings",
+      genres: "K-pop",
+      year: 2016,
+      color: titleColor),
+
+
+
+  PopularSong(
+      id: 2,
+      songName: "Winter Bear",
+      album: "Unofficial Song by V",
+      genres: "K-pop",
+      year: 2019,
+      color: titleColor),
+      
+  PopularSong(
+      id: 3,
+      songName: "Singularity",
+      album: "Love Yourself:Tear",
+      genres: "Neo soul, Korean Dance, K-Pop, Hip-Hop/Rap",
+      year: 2018,
+      color: titleColor),
+];
+
+
+
 List<PopularSong> jungkook = [
   PopularSong(
       id: 1,
