@@ -212,3 +212,29 @@ List<PopularSong> jungkook = [
       year: 2022,
       color: titleColor),
 ];
+
+
+
+List<PopularSong> bts = [
+  PopularSong(
+      id: 1,
+      songName: "Blood Sweat & Tears",
+      album: "wings",
+      genres: "K-pop,Korean Dance",
+      year: 2016,
+      color: titleColor),
+  PopularSong(
+      id: 2,
+      songName: "Fake Love",
+      album: "Love Yourself: Tear",
+      genres: "K-pop,Korean Dance",
+      year: 2018,
+      color: titleColor),
+  PopularSong(
+      id: 3,
+      songName: "Black Swan",
+      album: "Map of the Soul:7",
+      genres: "K-pop",
+      year: 2020,
+      color: titleColor),
+];
