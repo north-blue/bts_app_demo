@@ -9,3 +9,8 @@ const subTextColor = Color(0xFFFFFFFF);
 const titleColor = Color(0xFF252525);
 
 
+
+const kDefaultPaddin =20.0;
+
+
+
